@@ -5,7 +5,10 @@ Back en firebase function utilizando Node, Express
 
 - GOTY Backend Server + Cloud Functions
 - Recuerden ejecutar el 
-```
-npm install 
+
+````
+npm install
+
+````
 
 y cambiar su configuración de Firebase en el archivo serviceAccountKey.json
